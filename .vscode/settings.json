@@ -1,0 +1,5 @@
+{
+    "tabnine.disable_line_regex": [
+    "!**/node_modules/**"
+    ]
+}
